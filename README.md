@@ -1,2 +1,2 @@
 # To-Do
-todo app with go
+To-Do app with Go
